@@ -1,0 +1,15 @@
+ simulation = { 'OBC + Biogeo S.Ocean Box' };
+ nDims = [   2 ];
+ dimList = [
+    42,   29,   42,
+    20,   11,   20
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [    10 ];
+ timeStepNumber = [          0 ];
+ timeInterval = [  0.000000000000E+00 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [   10 ];
+ fldList = {
+ 'ETAN    ' 'ETANSQ  ' 'DETADT2 ' 'PHIBOT  ' 'PHIBOTSQ' 'DICTFLX ' 'DICOFLX ' 'DICCFLX ' 'DICPCO2 ' 'DICPHAV '
+ };
